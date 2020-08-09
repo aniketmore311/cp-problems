@@ -1,6 +1,6 @@
 # cp-problems
 
-a repository for solution of popular cp problems
+a repository for solutions of popular problems
 
 - ## graphs
   - [cycle detection in undirected graphs](https://github.com/aniketmore311/cp-problems/blob/master/graphs/cycleundirected.cpp)
